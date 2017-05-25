@@ -2,4 +2,4 @@
 
 there is a conflict with feature5 in this file
 
-//i resolved all conflicts 
+//there will be conflicts
